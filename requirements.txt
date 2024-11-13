@@ -1,0 +1,18 @@
+
+# Gerenciamento de banco de dados e SQL
+sqlalchemy==2.0.17
+mysql-connector-python==8.0.33
+
+# Manipulação de dados e requisições HTTP
+pandas==2.1.1
+requests==2.31.0
+
+# Orquestração (Prefect)
+prefect==2.10.4
+
+# Biblioteca para logs ricos (usada pelo Prefect)
+rich==13.5.2
+
+# Testes
+pytest==7.4.0
+pytest-mock==3.11.1
